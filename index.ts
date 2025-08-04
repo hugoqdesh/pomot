@@ -6,7 +6,7 @@ import notifier from "node-notifier";
 const input = process.argv[2];
 if (!input || !/^\d+$/.test(input)) {
 	console.error(chalk.red(`\nInvalid input: "${input}"`));
-	console.log(`Usage: ${chalk.cyan("pomodoro <minutes>")}`);
+	console.log(`Usage: ${chalk.cyan("npx pomot <minutes>")}`);
 	process.exit(1);
 }
 
