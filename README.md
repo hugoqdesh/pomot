@@ -1,7 +1,5 @@
 <h1 align="center">
-	<br>
 	pomot
-	<br>
 </h1>
 
 > Terminal timer for working
