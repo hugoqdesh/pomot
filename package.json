@@ -21,16 +21,10 @@
 		"url": "https://github.com/hugoqdesh/ts-cli/issues"
 	},
 	"homepage": "https://github.com/hugoqdesh/ts-cli#readme",
-	"devDependencies": {
-		"@types/node": "^24.1.0",
-		"typescript": "^5.9.2"
-	},
-	"dependencies": {
-		"chalk": "^5.5.0",
-		"cli-progress": "^3.12.0",
-		"node-notifier": "^10.0.1"
-	},
 	"files": [
 		"dist"
-	]
+	],
+	"devDependencies": {
+		"@types/node": "^24.2.0"
+	}
 }

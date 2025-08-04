@@ -2,7 +2,7 @@
 	pomot
 </h1>
 
-> A Simple Terminal Timer for Work
+> Minimal Terminal Work Timer
 
 ![](media/preview.png)
 
