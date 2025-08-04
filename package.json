@@ -1,0 +1,26 @@
+{
+  "name": "ts-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoqdesh/ts-cli.git"
+  },
+  "keywords": [],
+  "bin": "./index.ts",
+  "author": "hugoqdesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoqdesh/ts-cli/issues"
+  },
+  "homepage": "https://github.com/hugoqdesh/ts-cli#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
